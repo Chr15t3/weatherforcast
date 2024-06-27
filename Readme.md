@@ -5,7 +5,7 @@ Web application with active search that updates air humidity, temperature and ge
 </p>
 
 <p align="center">
-  <img alt="Photo" src="https://i.postimg.cc/cHv4YfDr/tempappphoto.png">
+  <img alt="Photo" src="https://i.postimg.cc/gj6VMX00/photoatt.png">
 </p>
 
 <p align="center">
